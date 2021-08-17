@@ -1,0 +1,2 @@
+rootProject.name='PomodoroClock_app_by_command'
+include ':app'
